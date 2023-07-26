@@ -1,4 +1,4 @@
-<h1>Important Topics to understand Java in Depth:</h1>
+Important Topics to understand Java in Depth:
 
 Static Keyword in Java: https://youtu.be/IaTWq6bmBaY
 
