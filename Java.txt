@@ -1,0 +1,124 @@
+Important Topics to understand Java in Depth:
+
+Static Keyword in Java: https://youtu.be/IaTWq6bmBaY
+
+How to Debug Java Application using Eclipse: https://youtu.be/c3RK62Tuhok
+
+Understanding Constructors in Java: 
+Part-1: https://youtu.be/5UX0uKvZ-28
+Part-2: https://youtu.be/7VSc1hbDJBk
+
+Understand Inheritance: https://youtu.be/3RP5lO_1_eY
+
+Polymorphism-Method Overloading anf Overriding: https://youtu.be/BZYbk8tXYXI
+
+Understand Abstraction in Java: https://youtu.be/YmYbLgBTEsY
+
+Why we need to use Interfaces: https://youtu.be/VBkJo3dFmbU
+
+How to Handle Exception Effectively: 
+Part-1: https://youtu.be/07sYsn7IHOk
+Part-2: https://youtu.be/Go4ah0GOrH4
+
+No one talk about this issue but this is one of most critical topic which affects your application and server health Memory Leak: https://youtu.be/1ksJpgk1HIc
+
+How code Compiles/Build and Execute in JVM: https://youtu.be/xidtAKnzEU8
+
+Ever wondered how object is created and lived through its life inside the Heap Memory in JVM: https://youtu.be/HItOMv92MFA
+
+Understand Complete Garbage Collection in Java: https://youtu.be/yA19f60JqXM
+https://youtu.be/ZMaQDFTbWOo
+
+Collection Framework:https://youtu.be/NHid6flmfYI
+https://youtu.be/IGVLm6E8uRw
+https://youtu.be/9YCNy1q1kYk
+https://youtu.be/z0Np7zBX2Vk
+https://youtu.be/Hc0G4IN_YZ0
+https://youtu.be/_LTUGgkk-f0
+
+Internal Working on HashMap in Java: https://youtu.be/KzKmf64w_M0
+
+How to use JDBC for connecting Java Application with Database: https://youtu.be/yUg6tyJWS5E
+
+Need of Generics in Java: https://youtu.be/Qtqzo0qeaI4
+https://youtu.be/7kJzbQiiJjk
+
+Autoboxing and Unboxing in Java: https://youtu.be/g_KbzCRIPFs
+
+Comparable vs Comparator: https://youtu.be/OlJKZd6ycLQ
+
+JPA vs Hibernate: https://youtu.be/ACtwjfV_pNA
+
+Introduction to Hibernate: https://youtu.be/PaWpHm-ip7g
+
+Java 8:
+
+Lambda Expression: https://youtu.be/o96t3SftL_E
+
+Default and Static Methods: https://youtu.be/iMXxhbW3IPY
+
+Method Reference: https://youtu.be/KDDKi4xw0Tk
+
+Usage of Optional in Java: https://youtu.be/hCG9Nv8n5Ow
+
+Functional Interfaces: https://youtu.be/s8wK_nFusfc
+https://youtu.be/IhrJFHRHbOw
+
+Understanding the Stream API in Java: https://youtu.be/OGckXifqokg
+https://youtu.be/1oKnIJcoEKk
+
+
+Design Patterns in Java: https://youtu.be/ziAJ78Wh5iI
+
+S.O.L.I.D Design Principles: https://youtu.be/OSV0w8IlbmY
+
+Most Common Exceptions in Java: https://youtu.be/gFVPLA-cvEw
+https://youtu.be/1Vp9iVvg1o4
+https://youtu.be/afj4cmjx_zY
+
+Interview Corner:
+
+Core Java: https://youtu.be/SHNydYgdcUg
+https://youtu.be/tv1oja9Hoo4
+https://youtu.be/hMJ3rKbMFj0
+https://youtu.be/0JyZOb2nb2A
+https://youtu.be/kKzgeUIh-PQ
+https://youtu.be/j9F-YnNrb8U
+https://youtu.be/N-7ih0zBS5A
+https://youtu.be/E22kVzkPXX0
+https://youtu.be/OlJKZd6ycLQ
+Java 8:
+https://youtu.be/v9TuqH7rrWY
+https://youtu.be/3l6I6EnFt7E
+
+Spring Framework:
+
+Introduction to Spring Framework: https://youtu.be/ymvjY71eVDA
+
+Inversion of Control and Dependency Injection: https://youtu.be/8xBF3RUMQfU
+
+Bean Factory and Application Context: https://youtu.be/tH6rd_OkClM
+
+Spring Beans, @Bean @Autowired: https://youtu.be/wteFNBKs8oU
+
+Understand Spring Bean Lifecycle: https://youtu.be/vbo6l7HIyVk
+
+Different Spring Bean Scope: https://youtu.be/MSVvzTuGuIs
+
+Simplify Configuration with Annotations: https://youtu.be/MSVvzTuGuIs
+
+How Spring Create and Manage Objects: https://youtu.be/tr2OYJeL0kg
+
+Coolest & Most important concepts of Spring - Configuration and Proxy: https://youtu.be/2HS6LSAESKw
+
+Data Validation and Binding in Spring: https://youtu.be/2_r1KR0jzyE
+
+Introduction to Aspect Oriented Programming: https://youtu.be/XExD1J15P6A
+
+How to implement Aspect Oriented Programming Concepts: https://youtu.be/rJD-1Pwa_cU
+
+Introduction to Spring Security: https://youtu.be/60XaBGOevCM
+
+Authentication and Authorization: https://youtu.be/8T5vWsCuDbI
+
+Core Concepts of Spring Security: https://youtu.be/7lnevNCaTLQ
